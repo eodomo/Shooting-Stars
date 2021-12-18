@@ -11,6 +11,7 @@
       "entries": [
         {
           "type": "minecraft:item",
+          "weight": 8,
           "name": "minecraft:glowstone_dust",
           "functions": [
             {
@@ -26,6 +27,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 8,
           "name": "minecraft:gunpowder",
           "functions": [
             {
@@ -41,6 +43,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_chestplate",
           "functions": [
             {
@@ -59,6 +62,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_helmet",
           "functions": [
             {
@@ -77,6 +81,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_leggings",
           "functions": [
             {
@@ -95,6 +100,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_boots",
           "functions": [
             {
@@ -113,6 +119,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:experience_bottle",
           "functions": [
             {
@@ -126,6 +133,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 1,
           "name": "minecraft:nether_star",
           "functions": [
             {
@@ -136,6 +144,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 7,
           "name": "minecraft:amethyst_shard",
           "functions": [
             {
@@ -149,10 +158,12 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:enchanted_golden_apple"
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:book",
           "functions": [
             {
@@ -171,6 +182,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 3,
           "name": "minecraft:trident",
           "functions": [
             {
@@ -184,6 +196,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 1,
           "name": "minecraft:music_disc_11",
           "functions": [
             {
@@ -194,6 +207,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 1,
           "name": "minecraft:egg",
           "functions": [
             {
@@ -208,6 +222,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 6,
           "name": "minecraft:emerald",
           "functions": [
             {
@@ -221,6 +236,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 6,
           "name": "minecraft:diamond",
           "functions": [
             {
@@ -234,6 +250,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_sword",
           "functions": [
             {
@@ -252,6 +269,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_axe",
           "functions": [
             {
@@ -270,6 +288,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_pickaxe",
           "functions": [
             {
@@ -288,6 +307,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_shovel",
           "functions": [
             {
@@ -306,6 +326,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 5,
           "name": "minecraft:diamond_hoe",
           "functions": [
             {
@@ -324,6 +345,7 @@
         },
         {
           "type": "minecraft:item",
+          "weight": 1,
           "name": "minecraft:stick",
           "functions": [
             {
@@ -349,8 +371,10 @@
           "name": "minecraft:raw_iron_block",
           "functions": [
             {
-            "function": "minecraft:set_name",
-            "name": {"text": "Fallen Star"}
+              "function": "minecraft:set_name",
+              "name": {
+                "text": "Fallen Star"
+              }
             }
           ]
         }
