@@ -1,6 +1,7 @@
 {
     "values": [
         "shootingstars:staremitter",
-        "shootingstars:time"
+        "shootingstars:time",
+        "shootingstars:flyingstar"
     ]
 }

@@ -1,0 +1,2 @@
+execute as @e[type=minecraft:armor_stand,name="flyingstar"] at @s run tp @s ~ ~ ~0.5
+execute as @e[type=minecraft:armor_stand,name="flyingstar"] at @s run particle minecraft:glow ~ ~ ~ 0 0 10 0.1 10 force @a
